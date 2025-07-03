@@ -13,6 +13,10 @@ void selectionSort()
 
 }
 
+void  mySort(){
+  
+}
+
 int main(){
   cout<<"HI";
   cout<<"Hi shivaprasada";
