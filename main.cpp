@@ -8,6 +8,10 @@ void Quicksort(){
   //
 }
 
+void MergeSort(){
+
+}
+
 int main(){
   cout<<"HI";
   cout<<"Hi shivaprasada";
