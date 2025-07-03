@@ -8,6 +8,11 @@ void Quicksort(){
   //
 }
 
+void selectionSort()
+{
+
+}
+
 int main(){
   cout<<"HI";
   cout<<"Hi shivaprasada";
